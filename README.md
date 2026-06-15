@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ðŸ§‘â€ðŸ’» About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -16,7 +16,7 @@
 public class Janageeth {
 
     String name        = "Janageeth M";
-    String location    = "Colombo, Sri Lanka 🇱🇰";
+    String location    = "Colombo, Sri Lanka ðŸ‡±ðŸ‡°";
     String degree      = "BSc (Hons) Software Engineering";
     String university  = "Cardiff Metropolitan University (ICBT Campus)";
 
@@ -32,7 +32,7 @@ public class Janageeth {
         "Machine Learning with Python"
     };
 
-    String funFact = "I've built 14+ real-world web apps 🚀";
+    String funFact = "I've built 14+ real-world web apps ðŸš€";
 
     String motto() {
         return "Ship fast. Learn faster. Build things that matter.";
@@ -44,7 +44,7 @@ public class Janageeth {
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 
 **Languages**
 
@@ -86,7 +86,7 @@ public class Janageeth {
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Janakeeth">
@@ -99,7 +99,7 @@ public class Janageeth {
 
 ---
 
-## 🔥 Streak Stats
+## ðŸ”¥ Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Janakeeth&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
@@ -107,7 +107,7 @@ public class Janageeth {
 
 ---
 
-## 📈 Activity Graph
+## ðŸ“ˆ Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janakeeth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
@@ -115,7 +115,7 @@ public class Janageeth {
 
 ---
 
-## 🏆 Trophy Wall
+## ðŸ† Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Janakeeth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
@@ -123,10 +123,10 @@ public class Janageeth {
 
 ---
 
-## 💼 Work Experience
+## ðŸ’¼ Work Experience
 
 <details>
-<summary><b>🏢 Port City BPO — Administrative Operations Associate · Dec 2024 – Present · Colombo</b></summary>
+<summary><b>ðŸ¢ Port City BPO â€” Administrative Operations Associate Â· Dec 2024 â€“ Present Â· Colombo</b></summary>
 <br/>
 
 > ![Operations](https://img.shields.io/badge/BPO-Operations-70a5fd?style=flat-square) ![Documentation](https://img.shields.io/badge/Documentation-bf91f3?style=flat-square) ![Client+Management](https://img.shields.io/badge/Client_Management-38bdae?style=flat-square)
@@ -139,7 +139,7 @@ public class Janageeth {
 </details>
 
 <details>
-<summary><b>💻 Mr. Silver Jewellers — Web Developer & Website Manager · Nov 2024 – Nov 2025 · Colombo</b></summary>
+<summary><b>ðŸ’» Mr. Silver Jewellers â€” Web Developer & Website Manager Â· Nov 2024 â€“ Nov 2025 Â· Colombo</b></summary>
 <br/>
 
 > ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -152,7 +152,7 @@ public class Janageeth {
 </details>
 
 <details>
-<summary><b>🌐 Gypsy Fashion Jewellery — Website Manager · Jan 2024 – Oct 2024 · Colombo</b></summary>
+<summary><b>ðŸŒ Gypsy Fashion Jewellery â€” Website Manager Â· Jan 2024 â€“ Oct 2024 Â· Colombo</b></summary>
 <br/>
 
 > ![SEO](https://img.shields.io/badge/SEO-Optimization-70a5fd?style=flat-square) ![Payment+Gateway](https://img.shields.io/badge/Payment_Gateway-bf91f3?style=flat-square) ![Mobile+Responsive](https://img.shields.io/badge/Mobile_Responsive-38bdae?style=flat-square)
@@ -166,72 +166,72 @@ public class Janageeth {
 
 ---
 
-## 🚀 Featured Projects
+## ðŸš€ Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🏪 **Cosmetic Store Inventory Management System** | Java, MySQL | Full CRUD inventory system with role-based access and stock alerts |
-| 💊 **Pharmacy Management Website** | React.js, Node.js, MySQL | Streamlined prescription tracking and medicine inventory for pharmacies |
-| 🏨 **Resort Online Booking Application** | PHP, MySQL, Bootstrap | Real-time room availability with online booking and admin dashboard |
-| 💍 **Online Jewels Booking Website** | React.js, Firebase | E-commerce with live product listings, booking flow, and payment gateway |
-| 🚕 **TOUR MATE – Cab Service Management System** | React.js, Node.js, MySQL | Driver & ride management platform with booking and route tracking |
-| 📱 **TechCare Services – Mobile Repair App** | Android Studio, Java | Interactive mobile app for repair service requests and status tracking |
-| 🎂 **Cake-Hut Café – Billing & Inventory System** | Java, MySQL | Automated billing, stock management, and daily sales reporting |
-| 🖨️ **Ink Calculator – Web Ink Management System** | HTML, CSS, JS, PHP | Web tool to calculate ink costs and manage printing shop resources |
+| ðŸª **Cosmetic Store Inventory Management System** | Java, MySQL | Full CRUD inventory system with role-based access and stock alerts |
+| ðŸ’Š **Pharmacy Management Website** | React.js, Node.js, MySQL | Streamlined prescription tracking and medicine inventory for pharmacies |
+| ðŸ¨ **Resort Online Booking Application** | PHP, MySQL, Bootstrap | Real-time room availability with online booking and admin dashboard |
+| ðŸ’ **Online Jewels Booking Website** | React.js, Firebase | E-commerce with live product listings, booking flow, and payment gateway |
+| ðŸš• **TOUR MATE â€“ Cab Service Management System** | React.js, Node.js, MySQL | Driver & ride management platform with booking and route tracking |
+| ðŸ“± **TechCare Services â€“ Mobile Repair App** | Android Studio, Java | Interactive mobile app for repair service requests and status tracking |
+| ðŸŽ‚ **Cake-Hut CafÃ© â€“ Billing & Inventory System** | Java, MySQL | Automated billing, stock management, and daily sales reporting |
+| ðŸ–¨ï¸ **Ink Calculator â€“ Web Ink Management System** | HTML, CSS, JS, PHP | Web tool to calculate ink costs and manage printing shop resources |
 
 </div>
 
 ---
 
-## 🎖️ Achievements & Certifications
+## ðŸŽ–ï¸ Achievements & Certifications
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
+| ðŸ… | Achievement | Details |
 |----|-------------|---------|
-| 🎓 | **Higher Diploma in Computing & Software Engineering** | Cardiff Metropolitan University |
-| 🤖 | **AI / Machine Learning Certification** | SLIIT |
-| ☕ | **Java Certification** | Simplilearn |
-| 🌐 | **JavaScript Certification** | Simplilearn |
-| 📊 | **Data Analysis using Microsoft Excel** | Coursera |
-| 🗄️ | **PostgreSQL — Become an SQL Developer** | Simplilearn |
-| 📈 | **Business Analysis Process Management** | Coursera |
-| ➕ | **Advanced C++ Course** | Simplilearn |
-| 📐 | **Certificate in AutoCAD** | ETEC Campus Kandy |
-| 💼 | **14+ Real-World Projects Delivered** | Retail, Healthcare, Hospitality & More |
+| ðŸŽ“ | **Higher Diploma in Computing & Software Engineering** | Cardiff Metropolitan University |
+| ðŸ¤– | **AI / Machine Learning Certification** | SLIIT |
+| â˜• | **Java Certification** | Simplilearn |
+| ðŸŒ | **JavaScript Certification** | Simplilearn |
+| ðŸ“Š | **Data Analysis using Microsoft Excel** | Coursera |
+| ðŸ—„ï¸ | **PostgreSQL â€” Become an SQL Developer** | Simplilearn |
+| ðŸ“ˆ | **Business Analysis Process Management** | Coursera |
+| âž• | **Advanced C++ Course** | Simplilearn |
+| ðŸ“ | **Certificate in AutoCAD** | ETEC Campus Kandy |
+| ðŸ’¼ | **14+ Real-World Projects Delivered** | Retail, Healthcare, Hospitality & More |
 
 </div>
 
 ---
 
-## 🎓 Education
+## ðŸŽ“ Education
 
 <div align="center">
 
 | Degree | Institution | Period | Notes |
 |--------|-------------|--------|-------|
-| 🎓 BSc (Hons) Software Engineering | Cardiff Metropolitan University (ICBT Campus) | 2023 – 2026 | In Progress |
-| 📐 AutoCAD Engineering | ETEC Campus Kandy | 2022 – 2023 | Completed |
+| ðŸŽ“ BSc (Hons) Software Engineering | Cardiff Metropolitan University (ICBT Campus) | 2023 â€“ 2026 | In Progress |
+| ðŸ“ AutoCAD Engineering | ETEC Campus Kandy | 2022 â€“ 2023 | Completed |
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## ðŸŒ± Currently Learning
 
 ```
-🧠 System Design        → Scalability, Load Balancing, Microservices
-☁️  Cloud Architecture  → Firebase, Vercel, Netlify Deployments
-🤖 Machine Learning     → Python, Scikit-learn, AI Fundamentals
-🔒 Web Security         → Auth, OWASP, Secure Payment Integration
-📱 Mobile Dev           → Advanced Android (Java), API Integration
+ðŸ§  System Design        â†’ Scalability, Load Balancing, Microservices
+â˜ï¸  Cloud Architecture  â†’ Firebase, Vercel, Netlify Deployments
+ðŸ¤– Machine Learning     â†’ Python, Scikit-learn, AI Fundamentals
+ðŸ”’ Web Security         â†’ Auth, OWASP, Secure Payment Integration
+ðŸ“± Mobile Dev           â†’ Advanced Android (Java), API Integration
 ```
 
 ---
 
-## 📬 Connect With Me
+## ðŸ“¬ Connect With Me
 
 <div align="center">
 
@@ -247,3 +247,4 @@ public class Janageeth {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
